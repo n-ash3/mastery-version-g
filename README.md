@@ -34,7 +34,7 @@ To run an individual testcase use
 3. Add the line `set history save on` to `~/.gdbinit`
 4. Clone this repository
 5. Read then use the Makefile
-6. Debug the test cases using gdb; you must use gdb to pass this mastery assessment.
+6.       Debug the test cases using gdb; you must use gdb to pass this mastery assessment.
 7. To the best of your ability, ensure your output matches the reference exactly.
 8. Write the outputs of the `history` command to a file in this repo called `shell_logs.txt`
 9. Ensure git tracking is enabled on  ./.gdbhistory 

@@ -1,0 +1,500 @@
+   19  bin/se -i testcases/alu/simple/adds -v 2 -c out
+   20  ls
+   21  cd se-lab-naina-nashly
+   22  code .
+   23  git add .
+   24  git commit -m"fixed bugs"
+   25  git push
+   26  make
+   27  clear
+   28  make
+   29  clear
+   30  make clean
+   31  all
+   32  make all
+   33  clean
+   34  clean all
+   35  clean
+   36  make clean
+   37  make
+   38  bin/se -i testcases/basics/add -v 2
+   39  make clean
+   40  make
+   41  gdb bin/se
+   42  make clean
+   43  make
+   44  make clean
+   45  make
+   46  bin/se -i testcases/basics/add -v 2
+   47  make clean 
+   48  make
+   49  gdb bin/se
+   50  make clean
+   51  make
+   52  git add .
+   53  git commit -m"did not change much"
+   54  git push
+   55  make week2
+   56  bin/se -i testcases/basic/add
+   57  bin/se -i testcases/basics/add 
+   58  bin/se -i testcases/basics/add -v 2
+   59  bin/se -i testcases/basics/add -v 2 | less
+   60  make clean
+   61  make
+   62  make week2
+   63  bin/se -i testcases/basics/add -v 2
+   64  bin/se -i testcases/basics/add -v 2 | less
+   65  make week2
+   66  bin/se -i testcases/basics/add -v 2 | less
+   67  make clean
+   68  make
+   69  git add .
+   70  git commmit -m"fixed runner bug"
+   71  git commit -m"fixed runner bug"
+   72  git push
+   73  make clean 
+   74  make
+   75  bin/se -i testcases/basics/add -v 2 | less
+   76  bin/se -i testcases/basics/add -v 2 | less
+   77  bin/se -i testcases/basics/add -v 2 | less
+   78  bin/se -i testcases/basics/add -v 2 | less
+   79  make
+   80  make week2
+   81  bin/se -i testcases/basics/add -v 2 | less
+   82  make clean
+   83  make week2
+   84  bin/se -i testcases/basics/add -v 2 | less
+   85  bin/se -i testcases/basics/add -v 
+   86  bin/se -i testcases/basics/add -v 2
+   87  make clean
+   88  make
+   89  make clean make week2
+   90  make week2
+   91  bin/se -i testcases/basics/add -v 2 | less
+   92  bin/se -i testcases/basics/add -v 2
+   93  bin/se -i testcases/basics/add -v
+   94  bin/se -i testcases/basics/add -v 2
+   95  maek clean
+   96  make clean
+   97  make week2
+   98  bin/se -i testcases/basics/add -v 2
+   99  make
+  100  make clean
+  101  make week2
+  102  bin/se -i testcases/basics/add -v 2
+  103  bin/se -i testcases/basics/add -v 2 | less
+  104  make clean 
+  105  make week2
+  106  bin/se -i testcases/basics/add -v 2 | less
+  107  make clean
+  108  make week2
+  109  bin/se -i testcases/basics/add -v 2 | less
+  110  make clean
+  111  make
+  112  make week2
+  113  bin/se -i testcases/basics/add -v 2 | less
+  114  make week2
+  115  git add .
+  116  git commit -m "push"
+  117  git commit
+  118  git push
+  119  clean
+  120  make clean
+  121  make week2
+  122  bin/se -i testcases/basics/add -v 2
+  123  bin/se -i testcases/basics/add -v 2 | less
+  124  bin/se-ref-wk2 -i testcases/basics/add -v 2 | less
+  125  make clean
+  126  make week2
+  127  bin/se-ref-wk2 -i testcases/basics/add -v 2 | less
+  128  bin/se -i testcases/basics/add -v 2
+  129  bin/se -i testcases/basics/add -v 2 |less
+  130  bin/se-ref-wk2  -i testcases/basics/add -v 2 |less
+  131  make clean
+  132  make week2
+  133  bin/se -i testcases/basics/add -v 2 |less
+  134  make clean
+  135  make week2
+  136  make clean
+  137  make week2
+  138  ls
+  139  ls
+  140  ls 
+  141  cd Documents
+  142  ls
+  143  ls documents
+  144  ls
+  145  cd
+  146  ls
+  147  ls mastery
+  148  ls ~/*mastery*
+  149  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  150  ls
+  151  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  152  cldaen
+  153  clean
+  154  cldear
+  155  clean
+  156  clear
+  157  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  158  ssh -keygen -t ed25519
+  159  ssh - keygen -t ed25519
+  160  ssh- keygen -t ed25519
+  161  clean
+  162  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  163  cat ~/.ssh/id_ed25519.pub
+  164  ls ~/.ssh/
+  165  nano ~/.ssh/config
+  166  nano github
+  167  nano authorized_key
+  168  nano known_host
+  169  nano github.pub
+  170  ssh -T git@github.com
+  171  nano
+  172  nano ~/.ssh/config
+  173  nano ~/.ssh/authorized_keys
+  174  nano ~/.ssh/github
+  175  nano ~/.ssh/github.pub
+  176  nano ~/.ssh/known_hosts
+  177  ls
+  178  pwd
+  179  cd downloads
+  180  ls
+  181  cd Downloads
+  182  ls
+  183  ls
+  184  pwd
+  185  home
+  186  ~pd
+  187  cd
+  188  ls
+  189  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  190  ssh-keygen -t ed25519
+  191  cat /u/nao657/.ssh/id_ed25519.pub
+  192  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  193  ssh nao657@linix.cs.utexas.edu
+  194  ssh nao657@linux.cs.utexas.edu
+  195  ls
+  196  cd mastery-version-a
+  197  code .
+  198  ls
+  199  git clone git@github.com:CS429-SP2025/mastery-version-a.git
+  200  ssh nao657@key.cs.utexas.edu
+  201  make clean
+  202  make
+  203  make mini_ci
+  204  ls
+  205  cd mastery-version-a
+  206  code .
+  207  nano ~/.gdbinit
+  208  echo ~/.gdbinit
+  209  touch ~/.gdbinit
+  210  echo "set history save on"
+  211  delet 
+  212  ./mini_ci testcases/basic_add.s
+  213  ./mini_ci testcases
+  214  ./mini_ci check
+  215  ./mini_ci testcases/basic_add.s check
+  216  make check
+  217  make clean
+  218  make debug
+  219  gdb mini_ci
+  220  make clean
+  221  make debug
+  222  make check
+  223  make clean
+  224  make debug
+  225  gdb mini_ci
+  226  make clean
+  227  make
+  228  ./mini_ci testcases/multi_op_err.s
+  229  make check
+  230  make clean
+  231  make debug
+  232  hisotry
+  233  history
+  234  touch shell_logs.txt
+  235  history > shell_logs.txt
+  236  gdb mini_ci
+  237  touch gdb_logs.txt
+  238  ls
+  239  ls -a
+  240  nano gdb_logs.txt
+  241  cat /u/nao657/.ssh/id_ed25519.pub
+  242  make clean
+  243  make
+  244  ls -a
+  245  gdb_history > gdb_logs.txt 
+  246  git statu
+  247  git status
+  248  git add .
+  249  git commit -m "passed all cases"
+  250  git push
+  251  ssh nao657@key.cs.utexas.edu
+  252  git push
+  253  git add .
+  254  git commit -m"chantes"
+  255  git push
+  256  ssh-keygen -t ed25519
+  257  git push
+  258  git add .
+  259  git commit -m "chd"
+  260  git push
+  261  ssh -vT git@github.com
+  262  ssh nao657@key.cs.utexas.edu
+  263  ~/.gdbinit
+  264  touch ~/.gdbinit
+  265  nano "set history save on"
+  266  nano
+  267  ls -a
+  268  nano "set history save on"
+  269  ssh nao657@linux.cs.utexas.edu
+  270  git add .
+  271  git commit -m "shj"
+  272  git push
+  273  ls
+  274  cd
+  275  cd mastery-version-a
+  276  git push
+  277  cat /u/nao657/.ssh/id_ed25519.pub
+  278  git push
+  279  ssh -T git@github.com
+  280  git push
+  281  nano ~/.ssh/config
+  282  make clean
+  283  ls
+  284  git add .
+  285  git commig -m"he"
+  286  git commit -m"he"
+  287  make clean
+  288  make
+  289  make debug
+  290  git add .
+  291  git commit -m"push"
+  292  git commit
+  293  git push
+  294  git add .
+  295  ls
+  296  cd mastery-version-a
+  297  ls
+  298  git add .
+  299  git commig -m "hs"
+  300  git commit -m "hs"
+  301  ls 
+  302  code .
+  303  git clonegit@github.com:CS429-SP2025/mastery-version-f.git
+  304  git clone git@github.com:CS429-SP2025/mastery-version-f.git
+  305  code .
+  306  clean
+  307  touch `~/.gdbinit
+  308  touch `~/.gdbinit
+  309  touch ~/.gdbinit
+  310  nano "set history save on"
+  311  ls
+  312  cd mastery-version-f
+  313  code .
+  314  ls 
+  315  ls -a
+  316  touch gdbinit
+  317  make clean
+  318  make debug
+  319  make check
+  320  make comp
+  321  make clean
+  322  make debug
+  323  gdb a.out
+  324  make clena
+  325  make clean
+  326  make debug
+  327  gdb bin/a.out
+  328  maek clean
+  329  maek clean
+  330  make clean
+  331  make debug
+  332  ./ref.out -t testcases/short1.rep
+  333  make clean
+  334  make debug
+  335  ./ref.out -t testcases/short1.rep
+  336  ./a.out -t testcases/short1.rep
+  337  bin/a.out  -t testcases/short1.rep
+  338  gdb bin/a.out
+  339  make clean
+  340  make debug
+  341  make check
+  342  make clean
+  343  make
+  344  bin/a.out  -t testcases/short1.rep
+  345  make clean
+  346  make debug
+  347  gdb bin/a.out
+  348  make check
+  349  history > shell_logs.txt
+  350  gdb 
+  351  ./.gdbhistory 
+  352  gdb bin/a.out
+  353  ./.gdbhistory 
+  354  git add 
+  355  ./.gdbhistory 
+  356  gdb ./.gdbhistory 
+  357  make clean
+  358  make debug
+  359  gdb bin/a.out
+  360  git add .
+  361  git commit -m "s"
+  362  git push
+  363  make clean
+  364  make
+  365  make check
+  366  make clean
+  367  make debug
+  368  gdb bin/a.out
+  369  make clean
+  370  make check
+  371  make clean
+  372  make debug
+  373  gdb bin/a.out
+  374  outputs/a.out  -t testcases/short1.rep
+  375  bin/ref.out -t testcases/short1.rep
+  376  bin/ref.out testcases/short1.rep
+  377  make check
+  378  bin/ref.out testcases/short1.rep
+  379  ref.out -t testcases/short1.rep
+  380  ref.out -t testcases/short2.rep
+  381  bin/a.out -t testcases/short2.rep
+  382  make clean
+  383  make debug
+  384  git add .
+  385  git commit -m"yay"
+  386  git push
+  387  q
+  388  make clean
+  389  make debug
+  390  git clone git@github.com:CS429-SP2025/mastery-version-h.git
+  391  code .
+  392  touch gdbinit
+  393  make clean
+  394  make debug
+  395  make check
+  396  make clean 
+  397  make debug
+  398  gdb bin/a.out
+  399  make clean
+  400  make
+  401  make debug
+  402  make comp
+  403  make check
+  404  make clean
+  405  make debug
+  406  gdb bin/a.out
+  407  touch gdbinit
+  408  ./.gdbhistory
+  409  make clean
+  410  make debug
+  411  make check
+  412  gdb bin/a.out
+  413  touch gdbinit
+  414  make clean
+  415  make debug
+  416  make check
+  417  gdb mini_ci
+  418  make clean
+  419  make debug
+  420  mini_ci_reference testcases/basic_add.s 
+  421  mini_ci  testcases/basic_add.s 
+  422  make clean
+  423  make debug
+  424  gdb mini_ci
+  425  make clean 
+  426  make debug
+  427  gdb mini_ci
+  428  mini_ci testcases/basic_add.s
+  429  make check
+  430  make check
+  431  make test
+  432  test
+  433  mini_ci test
+  434  make clean
+  435  make debug
+  436  mini_ci test
+  437  gdb 
+  438  q
+  439  gdb mini_ci
+  440  touch gdbinit
+  441  nano gdbinit
+  442  make clean
+  443  make debug
+  444  make check
+  445  gdb mini_ci
+  446  make clean
+  447  make debug
+  448  gdb mini_ci
+  449  ls
+  450  cd mastery-version-h
+  451  code .
+  452  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  453  ls
+  454  cd mastery-version-g
+  455  code .
+  456  git clone git@github.com:CS429-SP2025/mastery-version-e.git
+  457  ls 
+  458  cd mastery-version-e
+  459  code .
+  460  git clone git@github.com:CS429-SP2025/mastery-version-c.git
+  461  ls
+  462  cd mastery-version-c
+  463  code .
+  464  git clone git@github.com:CS429-SP2025/mastery-version-b.git
+  465  ls 
+  466  cd mastery-version-b
+  467  code .
+  468  ls
+  469  cd mastery-version-f
+  470  code .
+  471  touchgdbini
+  472  touch gdbinit
+  473  nano "set history save on"
+  474  make clean
+  475  make debug
+  476  make check
+  477  make comp
+  478  make clean
+  479  make debug
+  480  make comp
+  481  make clean
+  482  make debug
+  483  gdb bin/a.out
+  484  make clean
+  485  make deug
+  486  make debug
+  487  maek comp
+  488  make comp
+  489  history > shell_logs.txt
+  490  .gdb_history > gdb_logs.txt
+  491  make clean
+  492  make debug
+  493  git add .
+  494  git commit -m "yay"
+  495  git push
+  496  ls
+  497  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  498  ls
+  499  cd mastery-version-g
+  500  code .
+  501  touch gdbinit
+  502  nano gdbinit
+  503  make clean
+  504  make debug
+  505  make comp
+  506  make clean
+  507  make debug
+  508  gdb bin/a.out
+  509  make clean
+  510  make debug
+  511  make comp
+  512  gdb bin/a.out
+  513  make check
+  514  make comp
+  515  make clean
+  516  make debug
+  517  make comp
+  518  history > shell_logs.txt

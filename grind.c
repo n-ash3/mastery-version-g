@@ -66,13 +66,16 @@ void print_grinder() {
 
 static bool print_and_free_list(struct grind_elem* head) {
     struct grind_elem* itr = head;
+    struct grind_elem* prev = NULL;
     if (head == NULL) {
         return false;
     }
     while (itr != NULL) {
         printf("Uh Oh! %ld Bytes Leaked From Line: %d\n", itr->size, itr->index);
         free_grind_elem(&itr);
-        itr = itr->next;
+        if (itr != NULL) {
+            itr = itr->next;
+        } 
     }
     return true;
 }
